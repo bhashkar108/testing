@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tech AI — Student Workspace & Form Assistant
 
 An intelligent, multi-module student productivity and learning assistance platform featuring dynamic AI form filling, study material analysis, interactive document processing, equation graphing, and auto quiz generation.
@@ -90,3 +91,6 @@ Open your browser at `http://localhost:5173/`.
 ```bash
 pnpm run build
 ```
+=======
+# testing
+>>>>>>> 622dad572a05b2fd6915624670c31e14edf6e285
